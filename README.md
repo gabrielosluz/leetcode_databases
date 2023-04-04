@@ -1,0 +1,1 @@
+Repositório para armazenar desafios de databases da LeetCode.
